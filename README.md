@@ -1,7 +1,7 @@
 # Compromised clickstudio certificate
 
 __Extracted from__: f3ccf22db2c1060251096fe99464002318baccf598b626f8dbdd5e7fd71fd23f  
-__Serial__: 0394517DACDC71187A40001B5CC32DE5
+__Serial__: 0394517DACDC71187A40001B5CC32DE5  
 __Signer Hash__: 79bae9ba9b80cd349ebe9a4165224e816f3b597c
 
 
